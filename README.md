@@ -2,7 +2,7 @@
 
 This repository contains research on Advanced Persistent Threats (APT) groups. The research aims to analyze and document various APT groups, their tactics, techniques, and procedures (TTPs), and provide insights into their operations.
 
-## Team Members
+## Our Team
 
 - [@neelsoni26](https://github.com/neelsoni26)
 - [@mohakrudrakshh](https://github.com/mohakrudrakshh)
